@@ -1,4 +1,4 @@
-## Olá! Eu sou o Marco Antônio Galvão
+## Olá! Eu sou o Marco Antônio Rodrigues Galvão
 
 - 🔭 Hoje estou na faculdade de Ciências da Computação
 - 🌱 Estudando Java

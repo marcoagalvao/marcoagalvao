@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marco Antônio Rodrigues Galvão
 
 - 🔭 Hoje estou na faculdade de Ciências da Computação
-- 🌱 Estudando Java
+- 🌱 Estudando Front-End
 - 📫 Contate-me no email: marcoagalvao2411@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Curto NFL 😜

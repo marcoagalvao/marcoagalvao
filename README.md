@@ -6,17 +6,17 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Curto NFL 😜
 
-<div align=>
-  <a href="https://github.com/marcoagalvao">
-  ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoagalvao&show_icons=true&theme=dark)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoagalvao&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+  ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoagalvao&show_icons=true&theme=midnight-purple) <br></br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoagalvao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br>
-  <img aling="center" alt="Marco-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img aling="center" alt="Marco-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img aling="center" alt="Marco-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img aling="center" alt="Marco-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img aling="center" alt="Marco-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img aling="center" alt="Marco-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img aling="center" alt="Marco-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img aling="center" alt="Marco-REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
   
 ##

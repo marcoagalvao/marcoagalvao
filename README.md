@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marco Antônio Rodrigues Galvão
 
-- 🔭 Hoje estou na faculdade de Ciências da Computação
-- 🌱 Estudando Análise de Dados
+- 🔭 Sou formado em Ciências da Computação
+- 🌱 Estudando para me tornar Cientista de Dados
 - 📫 Contate-me no email: marcoagalvao2411@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Curto NFL 😜
@@ -13,11 +13,31 @@
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br>
-  <img aling="center" alt="Marco-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img aling="center" alt="Marco-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img aling="center" alt="Marco-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img aling="center" alt="Marco-REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <!-- Python -->
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <!-- SQL -->
+  <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
+  
+  <!-- Pandas -->
+  <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  
+  <!-- NumPy -->
+  <img align="center" alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  
+  <!-- Jupyter -->
+  <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  
+  <!-- Scikit-Learn -->
+  <img align="center" alt="ScikitLearn" src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  
+  <!-- TensorFlow -->
+  <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  
+  <!-- Power BI -->
+  <img align="center" alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
+
   
 ##
   

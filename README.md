@@ -168,15 +168,24 @@ Meu perfil combina **desenvolvimento técnico, visão de negócio e autonomia**.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧭 Resumo técnico
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=marcoagalvao&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Front-end</h3>
+      <p>React, Next.js, JavaScript, TypeScript, Tailwind CSS, HTML e CSS.</p>
+    </td>
+    <td width="33%">
+      <h3>Back-end</h3>
+      <p>Node.js, Python, Django, SQL, Supabase, APIs REST e integrações.</p>
+    </td>
+    <td width="33%">
+      <h3>Operação</h3>
+      <p>Git, GitHub, Vercel, Hostinger, WordPress, Apps Script, GA4 e GTM.</p>
+    </td>
+  </tr>
+</table>
 
 ## 📈 Atividade
 

@@ -1,4 +1,4 @@
-<img src="./banner.svg" width="100%" alt="Marco Galvão - Full Stack Developer @ Mytrus"/>
+<img src="https://github.com/user-attachments/assets/7769f40f-fcae-4bd8-8c3c-7ee0bc530cf1" width="100%" alt="Marco Galvão - Full Stack Developer @ Mytrus"/>
 
 <div align="center">
 

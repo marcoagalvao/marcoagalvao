@@ -1,4 +1,4 @@
-<img src="./images/banner.svg" width="100%" alt="Marco Galvão - Full Stack Developer @ Mytrus"/>
+<img src="./banner.svg" width="100%" alt="Marco Galvão - Full Stack Developer @ Mytrus"/>
 
 <div align="center">
 
@@ -135,7 +135,7 @@ Minha abordagem de trabalho equilibra **rigor técnico, autonomia e foco no clie
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcoagalvao&show_icons=true&bg_color=010129&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcoagalvao&show_icons=true&bg_color=010129&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoagalvao&layout=compact&bg_color=010129&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" />
 
 </div>
@@ -143,16 +143,6 @@ Minha abordagem de trabalho equilibra **rigor técnico, autonomia e foco no clie
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=marcoagalvao&background=010129&title=00d4ff&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=ffffff&sideLabels=8b9bb4&dates=8b9bb4&ring=00d4ff&fire=00d4ff&stroke=00d4ff&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=marcoagalvao&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 

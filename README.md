@@ -55,12 +55,15 @@ Minha abordagem de trabalho equilibra **rigor técnico, autonomia e foco no clie
 <div align="center">
 
 ### Front-end
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,vite" />
 
 ### Back-end & Banco de Dados
+
 <img src="https://skillicons.dev/icons?i=nodejs,python,django,postgres,supabase,mysql,firebase" />
 
 ### Ferramentas & Plataformas
+
 <img src="https://skillicons.dev/icons?i=git,github,vercel,wordpress,figma,vscode" />
 
 </div>
@@ -136,6 +139,7 @@ Minha abordagem de trabalho equilibra **rigor técnico, autonomia e foco no clie
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcoagalvao&show_icons=true&bg_color=010129&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true&count_private=true" />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoagalvao&layout=compact&bg_color=010129&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" />
 
 </div>
@@ -143,6 +147,29 @@ Minha abordagem de trabalho equilibra **rigor técnico, autonomia e foco no clie
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=marcoagalvao&background=010129&title=00d4ff&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=ffffff&sideLabels=8b9bb4&dates=8b9bb4&ring=00d4ff&fire=00d4ff&stroke=00d4ff&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/marcoagalvao/marcoagalvao/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/marcoagalvao/marcoagalvao/output/github-snake.svg"
+  />
+  <img
+    alt="Animação das contribuições do GitHub"
+    src="https://raw.githubusercontent.com/marcoagalvao/marcoagalvao/output/github-snake.svg"
+  />
+</picture>
 
 </div>
 
